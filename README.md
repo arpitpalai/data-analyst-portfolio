@@ -34,4 +34,20 @@ and identify opportunities for improving revenue and customer analysis.
 
 **[View Project →](https://github.com/arpitpalai/online-retail-sales-analysis)**
 
+### 02. Customer Support Performance & Service Quality Analysis
+
+**Python | PostgreSQL | Power BI**
+
+Analyzed customer support ticket data to understand support
+workload, ticket status, customer satisfaction, priorities and support channels.
+
+**Business Problem:**  
+The company needed to better understand support performance,
+identify unresolved ticket workload and improve customer satisfaction.
+
+**[View Project →](https://github.com/arpitpalai/customer-support-analysis)**
+
+
+
 ---
+
