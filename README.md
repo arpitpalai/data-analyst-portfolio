@@ -47,6 +47,17 @@ identify unresolved ticket workload and improve customer satisfaction.
 
 **[View Project →](https://github.com/arpitpalai/customer-support-analysis)**
 
+### 03. Delivery Logistics Performance & Operations Analysis
+
+**Python | PostgreSQL | Power BI**
+
+Analyzed 25,000 delivery records to understand delivery delays, delivery partners, service modes, weather conditions, delivery costs and customer ratings.
+
+**Business Problem:**  
+The logistics operation needed to identify delivery performance issues, understand delay patterns and evaluate delivery partners across reliability, speed, cost and customer satisfaction.
+
+**[View Project →](https://github.com/arpitpalai/delivery-logistics-analysis)**
+
 
 
 ---
