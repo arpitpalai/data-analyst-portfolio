@@ -70,16 +70,6 @@ The bank needed to understand which customer segments and behavioral patterns
 were associated with higher attrition and identify areas for further
 investigation to support customer retention efforts.
 
-**Key Analysis:**
-- Analyzed overall customer attrition and attrition rates
-- Compared attrition across income and card categories
-- Analyzed attrition across different age groups
-- Investigated customer inactivity and attrition patterns
-- Compared transaction activity between existing and attrited customers
-- Analyzed customer relationship depth and customer contacts
-- Identified attrition patterns across combined income and card segments
-- Built a 3-page Power BI dashboard to communicate business findings
-
 **[View Project →](https://github.com/arpitpalai/Credit-Card-Customer-Retention-Attrition-Analysis
 )**
 
